@@ -14,7 +14,7 @@ promedio_notas=(nota_1+nota_2+nota_3) / 3
 
 
 if promedio_notas >= 6.0:
-    print(f" nombre: {nombre_estudiante}")
+    print(f" nombre:{nombre_estudiante}")
     print(f"nota 1: {nota_1}")
     print(f"nota 2: {nota_2}")
     print(f"nota 3: {nota_3}") 
